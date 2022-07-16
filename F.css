@@ -1,0 +1,7 @@
+.Container{
+    border-radius: 30px;
+    border: 2px outset rgb(128, 51, 0);
+    height: 300px;
+    width: 200px;
+    background-color: red;
+}

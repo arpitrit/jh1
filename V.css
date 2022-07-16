@@ -1,0 +1,10 @@
+.Container{
+    border: 3px outset red; 
+    height: 200px;
+    width: 350px;
+    background-color: green;
+}
+.Container:hover{transition-duration: 4s;
+    width: 600px;
+    background-color: yellow;
+    }
